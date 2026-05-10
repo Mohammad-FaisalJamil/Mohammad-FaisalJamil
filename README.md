@@ -9,7 +9,7 @@
 
 <!-- ▓▓▓ TYPING ANIMATION ▓▓▓ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+what+doesn%27t+exist+yet+%F0%9F%9A%80;NLP+%7C+LLMs+%7C+Deep+Learning+Engineer;Fine-tuning+Transformers+%26+RAG+Pipelines;Agentic+AI+Systems+Architect;Computer+Vision+%7C+Multimodal+AI;National+Hackathon+Winner+%F0%9F%8F%86;AI+Engineer+%40+Octalogix+%7C+UMT+%2726" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+what+doesn%27t+exist+yet+%F0%9F%9A%80;NLP+%7C+LLMs+%7C+Deep+Learning+Engineer;Fine-tuning+Transformers+%26+RAG+Pipelines;Agentic+AI+Systems+Architect;National+Hackathon+Winner+%F0%9F%8F%86;AI+Engineer+%40+Octalogix+%7C+UMT+%2726" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,13 +17,15 @@
 <!-- ▓▓▓ SOCIAL BADGES ▓▓▓ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohammad-FaisalJamil&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Mohammad-FaisalJamil)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadfaisaljamil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisaljamil/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letsdoconvo@gmail.com)
 &nbsp;
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.faizijameel/)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.faizijameel)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohdfaisaljamil)
 
 </div>
 
@@ -43,7 +45,7 @@ class AIEngineer:
         self.role        = "AI Engineer"
         self.university  = "UMT Lahore  |  B.S. Artificial Intelligence  |  '26"
         self.company     = "Octalogix  (Remote · Australia)"
-        self.focus       = ["NLP", "LLMs", "Deep Learning", "Agentic AI", "CV"]
+        self.focus       = ["NLP", "LLMs", "Deep Learning", "Agentic AI"]
         self.fyp         = "VISOR — AI-Powered Career Enhancement System"
         self.motto       = "Building what doesn't exist yet 🚀"
 
@@ -52,7 +54,6 @@ class AIEngineer:
             "NLP / LLMs"   : ["Transformers", "BERT", "GPT", "T5", "RAG", "LangChain"],
             "Deep Learning" : ["PyTorch", "TensorFlow", "Keras", "Attention Mechanisms"],
             "Gen AI"        : ["HuggingFace", "OpenAI API", "Prompt Engineering", "PEFT"],
-            "Vision"        : ["OpenCV", "YOLO", "MediaPipe", "CNNs"],
             "MLOps"         : ["Docker", "FastAPI", "Streamlit", "Git", "Linux"],
         }
 
@@ -104,15 +105,6 @@ print(me.motto)
 
 <br/>
 
-### 👁️ &nbsp;Computer Vision
-
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](#)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black)](#)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)](#)
-[![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![CNNs](https://img.shields.io/badge/CNNs%20%2F%20ResNet-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-
-<br/>
 
 ### 🛠️ &nbsp;Dev Tools · MLOps · Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,fastapi,flask,git,linux,vscode,github,postman&theme=dark" />
@@ -143,14 +135,16 @@ print(me.motto)
 
 ## 📊 &nbsp;GitHub Dashboard
 
-<table width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-FaisalJamil&theme=tokyonight" width="97%"/>
+
+<br/>
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-FaisalJamil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-FaisalJamil&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-    </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammad-FaisalJamil&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammad-FaisalJamil&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammad-FaisalJamil&theme=tokyonight"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammad-FaisalJamil&theme=tokyonight&utcOffset=5"/></td>
   </tr>
 </table>
 
@@ -192,7 +186,6 @@ print(me.motto)
       <br/>
       <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-00d4ff?style=flat-square&logo=python&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CV-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
     <td align="center" width="33%">
@@ -301,7 +294,7 @@ print(me.motto)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadfaisaljamil)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-faisaljamil/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letsdoconvo@gmail.com)
 &nbsp;&nbsp;
